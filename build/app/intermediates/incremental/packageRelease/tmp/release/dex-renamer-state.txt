@@ -1,0 +1,4 @@
+#Wed Jan 13 12:58:02 IST 2021
+base.0=/Users/nanbanvicky/AndroidStudioProjects/venkat_ecommerce/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
